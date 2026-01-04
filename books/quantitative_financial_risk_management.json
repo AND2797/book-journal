@@ -8,11 +8,28 @@
       "Risk Management"
     ]
   },
-  "reading_session": {
-    "date": "2026-01-02",
-    "pages": "1-15",
-    "chapter_nos": [1],
-    "chapter_title": ["Overview of Financial Risk Management"],
-    "summary": ["Definition of risk management, types of risks, history of risk management"]
-  }
+  "reading_sessions": [
+    {
+      "date": "20260102",
+      "pages": "1-15",
+      "chapter_nos": [
+        1
+      ],
+      "chapter_title": [
+        "Overview of Financial Risk Management"
+      ],
+      "summary": "Definition of risk management, types of risks, history of risk management"
+    },
+    {
+      "date": "20260104",
+      "pages": "15-22",
+      "chapter_nos": [
+        2
+      ],
+      "chapter_title": [
+        "Market Risk: Standard Deviation"
+      ],
+      "summary": "Overview of mean, mode, median. Recap of Discrete and Continuous RV"
+    }
+  ]
 }
